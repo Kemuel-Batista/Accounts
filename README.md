@@ -8,7 +8,7 @@ O projeto faz parte do curso de Node.JS do zero ao avançado, na primeira vez qu
 Então com esse objetivo comprei esse curso e o primeiro projeto foi utilizando noções básicas de programação, core modules e dependências externas para melhorar a visualização
 
 <p align="center">
-  <video alt="Programação" src="https://user-images.githubusercontent.com/62821098/167503966-64f459ab-4fad-42d8-9c22-dcf691cdeba5.mp4">
+  <video alt="Programação" src="https://drive.google.com/file/d/1zxKZA5SgkaLF3amnxuurB173iEk4fV6_/view?usp=sharing">
 </p>
 
 <br>
